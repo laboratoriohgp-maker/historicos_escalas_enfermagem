@@ -1,0 +1,92 @@
+Setor,Tipo_Escala,Qtd_Escalas,Qtd_Pacientes,Mes
+Clinica Cirurgica,Braden,828,198,Setembro
+Clinica Cirurgica,Sem Risco,519,198,Setembro
+Clinica Cirurgica,Escala De Aldrete E Kroulik,169,198,Setembro
+Clinica Cirurgica,Escala De Braden Q,14,198,Setembro
+Clinica Cirurgica,Escala De Elpo,147,198,Setembro
+Clinica Cirurgica,Escala Morse,831,198,Setembro
+Clinica Cirurgica,Escala News,638,198,Setembro
+Clinica Cirurgica,Fugulin,851,198,Setembro
+Clinica Gineco Obstetrica I,Braden,73,89,Setembro
+Clinica Gineco Obstetrica I,Escala De Aldrete E Kroulik,55,89,Setembro
+Clinica Gineco Obstetrica I,Escala De Elpo,47,89,Setembro
+Clinica Gineco Obstetrica I,Escala De Maddox (Flebite),15,89,Setembro
+Clinica Gineco Obstetrica I,Escala Meows,78,89,Setembro
+Clinica Gineco Obstetrica I,Escala Morse,77,89,Setembro
+Clinica Gineco Obstetrica I,Escala News,3,89,Setembro
+Clinica Gineco Obstetrica I,Fugulin,71,89,Setembro
+Clinica Gineco Obstetrica Ii,Braden,298,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala De Aldrete E Kroulik,185,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala De Braden Q,49,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala De Elpo,143,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala De Maddox (Flebite),256,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala Meows,259,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala Meows 1.0,3,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala Morse,369,276,Setembro
+Clinica Gineco Obstetrica Ii,Escala News,6,276,Setembro
+Clinica Gineco Obstetrica Ii,Fugulin,236,276,Setembro
+Clinica Gneco-Obst Bercario I,Braden,1,36,Setembro
+Clinica Gneco-Obst Bercario I,Escala De Maddox (Flebite),1,36,Setembro
+Clinica Gneco-Obst Bercario I,Escala Meows,1,36,Setembro
+Clinica Gneco-Obst Bercario I,Escala Morse,1,36,Setembro
+Clinica Gneco-Obst Bercario I,Risco Nutricional - Neonatal,1,36,Setembro
+Clinica Gneco-Obst Bercario Ii,Escala De Aldrete E Kroulik,1,250,Setembro
+Clinica Gneco-Obst Bercario Ii,Risco Nutricional - Neonatal,47,250,Setembro
+Clinica Medica,Braden,1700,127,Setembro
+Clinica Medica,Escala De Aldrete E Kroulik,12,127,Setembro
+Clinica Medica,Escala De Braden Q,202,127,Setembro
+Clinica Medica,Escala De Elpo,15,127,Setembro
+Clinica Medica,Escala Meows,2,127,Setembro
+Clinica Medica,Escala Morse,1945,127,Setembro
+Clinica Medica,Escala News,1770,127,Setembro
+Clinica Medica,Fugulin,2002,127,Setembro
+Clinica Medica,Strong Kids,1,127,Setembro
+Clinica Ortopedica,Braden,340,101,Setembro
+Clinica Ortopedica,Escala De Aldrete E Kroulik,104,101,Setembro
+Clinica Ortopedica,Escala De Braden Q,3,101,Setembro
+Clinica Ortopedica,Escala De Elpo,89,101,Setembro
+Clinica Ortopedica,Escala Morse,338,101,Setembro
+Clinica Ortopedica,Escala News,291,101,Setembro
+Clinica Ortopedica,Fugulin,350,101,Setembro
+Clinica Pediatrica,Braden,198,99,Setembro
+Clinica Pediatrica,Escala De Aldrete E Kroulik,36,99,Setembro
+Clinica Pediatrica,Escala De Alerta Precoce-Pews,552,99,Setembro
+Clinica Pediatrica,Escala De Braden Q,387,99,Setembro
+Clinica Pediatrica,Escala De Maddox (Flebite),549,99,Setembro
+Clinica Pediatrica,Escala De Nips,177,99,Setembro
+Clinica Pediatrica,Escala Meows 1.0,2,99,Setembro
+Clinica Pediatrica,Escala Morse,24,99,Setembro
+Clinica Pediatrica,Escala News,6,99,Setembro
+Clinica Pediatrica,Fugulin,597,99,Setembro
+Clinica Pediatrica,Humpty Dumpty,4,99,Setembro
+Clinica Pediatrica,Strong Kids,81,99,Setembro
+Clinica Psicossocial,Braden,286,27,Setembro
+Clinica Psicossocial,Escala De Braden Q,1,27,Setembro
+Clinica Psicossocial,Escala Morse,287,27,Setembro
+Clinica Psicossocial,Escala News,265,27,Setembro
+Clinica Psicossocial,Fugulin,290,27,Setembro
+Ps Sala Vermelha,Braden,40,6,Setembro
+Ps Sala Vermelha,Escala De Braden Q,2,6,Setembro
+Ps Sala Vermelha,Escala Morse,42,6,Setembro
+Ps Sala Vermelha,Escala News,40,6,Setembro
+Ps Sala Vermelha,Fugulin,42,6,Setembro
+Ps Udc,Braden,21,63,Setembro
+Ps Udc,Escala De Aldrete E Kroulik,4,63,Setembro
+Ps Udc,Escala De Elpo,4,63,Setembro
+Ps Udc,Escala Morse,18,63,Setembro
+Ps Udc,Escala News,6,63,Setembro
+Ps Udc,Fugulin,24,63,Setembro
+Uci Neonatal,Braden,3,38,Setembro
+Uci Neonatal,Escala De Braden Q,8,38,Setembro
+Uci Neonatal,Escala De Maddox (Flebite),6,38,Setembro
+Uci Neonatal,Escala Meows 1.0,8,38,Setembro
+Uci Neonatal,Escala Morse,3,38,Setembro
+Uci Neonatal,Escala News,26,38,Setembro
+Uci Neonatal,Fugulin,4,38,Setembro
+Uti Adulto I Hgp,Braden,118,22,Setembro
+Uti Adulto I Hgp,Escala De Aldrete E Kroulik,3,22,Setembro
+Uti Adulto I Hgp,Escala De Braden Q,12,22,Setembro
+Uti Adulto I Hgp,Escala De Elpo,7,22,Setembro
+Uti Adulto I Hgp,Escala Morse,183,22,Setembro
+Uti Adulto I Hgp,Escala News,109,22,Setembro
+Uti Adulto I Hgp,Fugulin,200,22,Setembro
